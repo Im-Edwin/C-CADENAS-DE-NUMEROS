@@ -1,7 +1,8 @@
 # C-CADENAS-DE-NUMEROS🙂
 ## EDWIN MORIEL
 
-``` #include <iostream>
+```cpp
+#include <iostream>
 #include <string>
 //Programa realizado por: EDWIN MORIEL IÑIGA
 using namespace std;
@@ -94,9 +95,12 @@ int main(){
    }
  	
 	return 0;
-} ```
+}
+```
 
-# VISTA PREVIA🎈 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/cadena.gif">
-</p>
+*Demo*
+
+
+![Demo😶](https://user-images.githubusercontent.com/72156127/120652796-bb5aa700-c445-11eb-91d8-2ffb8cb32467.png)
+
+

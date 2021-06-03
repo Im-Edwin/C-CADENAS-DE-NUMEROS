@@ -1,6 +1,7 @@
-# C-CADENAS-DE-NUMEROS
+# C-CADENAS-DE-NUMEROS🙂
+## EDWIN MORIEL
 
-#include <iostream>
+``` #include <iostream>
 #include <string>
 //Programa realizado por: EDWIN MORIEL IÑIGA
 using namespace std;
@@ -93,4 +94,4 @@ int main(){
    }
  	
 	return 0;
-}
+} ```

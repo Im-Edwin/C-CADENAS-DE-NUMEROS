@@ -95,3 +95,8 @@ int main(){
  	
 	return 0;
 } ```
+
+# VISTA PREVIA🎈 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/cadena.gif">
+</p>

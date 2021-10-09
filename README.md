@@ -119,13 +119,3 @@ int main(){
 
 ```
 
-*Demo*
-
-
-![Demo😶](https://user-images.githubusercontent.com/72156127/120652796-bb5aa700-c445-11eb-91d8-2ffb8cb32467.png)
-
-
-*Descargar*
-(https://github.com/Im-Edwin/C-CADENAS-DE-NUMEROS/raw/main/DIDGITOS.exe)
-
-
